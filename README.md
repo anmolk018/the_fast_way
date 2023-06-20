@@ -16,3 +16,6 @@ For development, you will only need Node.js installed in your environement.
 
     $ npm start
 
+## PUSH Data to DB
+    Method: Get
+    Url: localhost:3000/api/v1/coinecko
