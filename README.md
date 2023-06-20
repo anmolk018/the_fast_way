@@ -1,4 +1,4 @@
-# Coingecko API THE FAST WAY
+# Coingecko API (THE FAST WAY)
 
 Storing Coingecko API Data into Database.
 
